@@ -3,7 +3,8 @@ Read me . md
 1) Unzip
 2) Install Vs Code
 3) Open Screenshorts
-4) url
+4) url of github (https://github.com/msufyan2506-byte/bridge.git).
+5) url of live Website (https://msufyan2506-byte.github.io/end/).
 
 
 Discription:
@@ -21,4 +22,5 @@ Interactive Features:
 The inclusion of a feedback form, download option, and gallery section enhances user interaction and makes the website more dynamic and practical.
 
 Well-Structured Categorization:
+
 Bridges are organized into specific categories — Longest, Tallest, Highest, and Oldest — making the information easy to find and compare.
