@@ -1,0 +1,24 @@
+Read me . md
+
+1) Unzip
+2) Install Vs Code
+3) Open Screenshorts
+4) url
+
+
+Discription:
+
+Informative & Educational Content:
+The website provides detailed information about famous bridges around the world, helping users learn about their history, design, and engineering significance.
+
+Attractive Visual Design:
+High-quality images, balanced color schemes, and a clean layout make the website visually appealing and engaging for visitors.
+
+User-Friendly Interface:
+With clear navigation menus and responsive design, users can easily explore different sections of the website on mobile, tablet, or desktop.
+
+Interactive Features:
+The inclusion of a feedback form, download option, and gallery section enhances user interaction and makes the website more dynamic and practical.
+
+Well-Structured Categorization:
+Bridges are organized into specific categories — Longest, Tallest, Highest, and Oldest — making the information easy to find and compare.
